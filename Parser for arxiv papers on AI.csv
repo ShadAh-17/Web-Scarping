@@ -1,0 +1,671 @@
+Title,Authors,Subjetcs
+Automatic Programming of Cellular Automata and Artificial Neural  Networks Guided by Philosophy,"Patrik Christen, 
+Olivier Del Fabbro","Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Multiagent Systems (cs.MA); Neural and Evolutionary Computing (cs.NE); Programming Languages (cs.PL)
+"
+Robust Goal Recognition with Operator-Counting Heuristics,"Felipe Meneguzzi, 
+André Grahl Pereira, 
+Ramon Fraga Pereira",Artificial Intelligence (cs.AI)
+AI in the media and creative industries,"Giuseppe Amato (CNR PISA), 
+Malte Behrmann, 
+Frédéric Bimbot (PANAMA), 
+Baptiste Caramiaux (LRI, EX-SITU), 
+Fabrizio Falchi (CNR PISA), 
+Ander Garcia, 
+Joost Geurts (Inria), 
+Jaume Gibert, 
+Guillaume Gravier (LinkMedia), 
+Hadmut Holken, 
+Hartmut Koenitz (HKU), 
+Sylvain Lefebvre (MFX), 
+Antoine Liutkus (LORIA, ZENITH), 
+Fabien Lotte (Potioc, LaBRI), 
+Andrew Perkis (NTNU), 
+Rafael Redondo, 
+Enrico Turrin (FEP), 
+Thierry Vieville (Mnemosyne), 
+Emmanuel Vincent (MULTISPEECH)","Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG); Neural and Evolutionary Computing (cs.NE)
+"
+Memory Bounded Open-Loop Planning in Large POMDPs using Thompson  Sampling,"Thomy Phan, 
+Lenz Belzner, 
+Marie Kiermeier, 
+Markus Friedrich, 
+Kyrill Schmid, 
+Claudia Linnhoff-Popien",Artificial Intelligence (cs.AI)
+Integrating Artificial Intelligence into Weapon Systems,"Philip Feldman, 
+Aaron Dant, 
+Aaron Massey","Artificial Intelligence (cs.AI); Computers and Society (cs.CY); Robotics (cs.RO)
+"
+Hybrid Predictive Model: When an Interpretable Model Collaborates with a  Black-box Model,"Tong Wang, 
+Qihang Lin","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+"
+Semi-supervised and Population Based Training for Voice Commands  Recognition,"Oguz H. Elibol, 
+Gokce Keskin, 
+Anil Thomas","Audio and Speech Processing (eess.AS); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)
+"
+Quantifying Teaching Behaviour in Robot Learning from Demonstration,"Aran Sena, 
+Matthew J Howard","Robotics (cs.RO); Artificial Intelligence (cs.AI); Human-Computer Interaction (cs.HC); Machine Learning (cs.LG)
+"
+The Regression Tsetlin Machine: A Tsetlin Machine for Continuous Output  Problems,"K. Darshana Abeyrathna, 
+Ole-Christoffer Granmo, 
+Lei Jiao, 
+Morten Goodwin","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+"
+On the Detection of Mutual Influences and Their Consideration in  Reinforcement Learning Processes,"Stefan Rudolph, 
+Sven Tomforde, 
+Jörg Hähner","Multiagent Systems (cs.MA); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)
+"
+A Scheme for Continuous Input to the Tsetlin Machine with Applications  to Forecasting Disease Outbreaks,"K. Darshana Abeyrathna, 
+Ole-Christoffer Granmo, 
+Xuan Zhang, 
+Morten Goodwin","Machine Learning (cs.LG); Artificial Intelligence (cs.AI)
+"
+Do Autonomous Agents Benefit from Hearing?,"Abraham Woubie, 
+Anssi Kanervisto, 
+Janne Karttunen, 
+Ville Hautamaki","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Sound (cs.SD); Machine Learning (stat.ML)
+"
+Autonomous Management of Energy-Harvesting IoT Nodes Using Deep  Reinforcement Learning,"Abdulmajid Murad, 
+Frank Alexander Kraemer, 
+Kerstin Bach, 
+Gavin Taylor","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Signal Processing (eess.SP)
+"
+Design of Artificial Intelligence Agents for Games using Deep  Reinforcement Learning,Andrei Claudiu Roibu,"Machine Learning (cs.LG); Artificial Intelligence (cs.AI)
+"
+Emergent Escape-based Flocking Behavior using Multi-Agent Reinforcement  Learning,"Carsten Hahn, 
+Thomy Phan, 
+Thomas Gabor, 
+Lenz Belzner, 
+Claudia Linnhoff-Popien","Multiagent Systems (cs.MA); Artificial Intelligence (cs.AI)
+"
+Survey on Evaluation Methods for Dialogue Systems,"Jan Deriu, 
+Alvaro Rodrigo, 
+Arantxa Otegi, 
+Guillermo Echegoyen, 
+Sophie Rosset, 
+Eneko Agirre, 
+Mark Cieliebak","Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Human-Computer Interaction (cs.HC); Machine Learning (cs.LG)
+"
+Exact Adversarial Attack to Image Captioning via Structured Output  Learning with Latent Variables,"Yan Xu, 
+Baoyuan Wu, 
+Fumin Shen, 
+Yanbo Fan, 
+Yong Zhang, 
+Heng Tao Shen, 
+Wei Liu","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)
+"
+Attention-based Deep Reinforcement Learning for Multi-view Environments,"Elaheh Barati, 
+Xuewen Chen, 
+Zichun Zhong","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+"
+Reinforcement Learning in Non-Stationary Environments,"Sindhu Padakandla, 
+Prabuchandran K. J, 
+Shalabh Bhatnagar","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+"
+GAN-based Deep Distributional Reinforcement Learning for Resource  Management in Network Slicing,"Yuxiu Hua, 
+Rongpeng Li, 
+Zhifeng Zhao, 
+Honggang Zhang, 
+Xianfu Chen","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Networking and Internet Architecture (cs.NI); Machine Learning (stat.ML)
+"
+Building 3D Object Models during Manipulation by Reconstruction-Aware  Trajectory Optimization,"Kanrun Huang, 
+Tucker Hermans","Robotics (cs.RO); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)
+"
+A reconstruction of the multipreference closure,"Laura Giordano, 
+Valentina Gliozzi","Logic in Computer Science (cs.LO); Artificial Intelligence (cs.AI)
+"
+Solving zero-sum extensive-form games with arbitrary payoff uncertainty  models,"Juan Leni, 
+John Levine, 
+John Quigley","Computer Science and Game Theory (cs.GT); Artificial Intelligence (cs.AI)
+"
+Mappa Mundi: An Interactive Artistic Mind Map Generator with Artificial  Imagination,"Ruixue Liu, 
+Baoyang Chen, 
+Meng Chen, 
+Youzheng Wu, 
+Zhijie Qiu, 
+Xiaodong He","Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Human-Computer Interaction (cs.HC)
+"
+AI Enabling Technologies: A Survey,"Vijay Gadepally, 
+Justin Goodwin, 
+Jeremy Kepner, 
+Albert Reuther, 
+Hayley Reynolds, 
+Siddharth Samsi, 
+Jonathan Su, 
+David Martinez",Artificial Intelligence (cs.AI)
+General Method for Prime-point Cyclic Convolution over the Real Field,"Qi Cai, 
+Tsung-Ching Lin, 
+Yuanxin Wu, 
+Wenxian Yu, 
+Trieu-Kien Truong",Artificial Intelligence (cs.AI)
+2-bit Model Compression of Deep Convolutional Neural Network on ASIC  Engine for Image Retrieval,"Bin Yang, 
+Lin Yang, 
+Xiaochun Li, 
+Wenhan Zhang, 
+Hua Zhou, 
+Yequn Zhang, 
+Yongxiong Ren, 
+Yinbo Shi",Artificial Intelligence (cs.AI)
+The Effect of Network Width on Stochastic Gradient Descent and  Generalization: an Empirical Study,"Daniel S. Park, 
+Jascha Sohl-Dickstein, 
+Quoc V. Le, 
+Samuel L. Smith","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)
+"
+Interactive Image Generation Using Scene Graphs,"Gaurav Mittal, 
+Shubham Agrawal, 
+Anuva Agarwal, 
+Sushant Mehta, 
+Tanya Marwah","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)
+"
+A Reinforcement Learning Perspective on the Optimal Control of Mutation  Probabilities for the (1+1) Evolutionary Algorithm: First Results on the  OneMax Problem,"Luca Mossina, 
+Emmanuel Rachelson, 
+Daniel Delahaye","Neural and Evolutionary Computing (cs.NE); Artificial Intelligence (cs.AI)
+"
+Tuned Inception V3 for Recognizing States of Cooking Ingredients,Kin Ng,"Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)
+"
+Visualizing the Consequences of Climate Change Using Cycle-Consistent  Adversarial Networks,"Victor Schmidt, 
+Alexandra Luccioni, 
+S. Karthik Mukkavilli, 
+Narmada Balasooriya, 
+Kris Sankaran, 
+Jennifer Chayes, 
+Yoshua Bengio","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)
+"
+Accurate Visual Localization for Automotive Applications,"Eli Brosh, 
+Matan Friedmann, 
+Ilan Kadar, 
+Lev Yitzhak Lavy, 
+Elad Levi, 
+Shmuel Rippa, 
+Yair Lempert, 
+Bruno Fernandez-Ruiz, 
+Roei Herzig, 
+Trevor Darrell","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)
+"
+Agnostic Lane Detection,Yuenan Hou,"Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)
+"
+Unsupervised automatic classification of Scanning Electron Microscopy  (SEM) images of CD4+ cells with varying extent of HIV virion infection,"John M. Wandeto, 
+Birgitta Dresp-Langley","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)
+"
+Improving Image-Based Localization with Deep Learning: The Impact of the  Loss Function,"Isaac Ronald Ward, 
+M. A. Asim K. Jalwana, 
+Mohammed Bennamoun","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)
+"
+Differentiable Approximation Bridges For Training Networks Containing  Non-Differentiable Functions,"Jason Ramapuram, 
+Russ Webb","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)
+"
+Stochastic Iterative Hard Thresholding for Graph-structured Sparsity  Optimization,"Baojian Zhou, 
+Feng Chen, 
+Yiming Ying","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+"
+Simulating Problem Difficulty in Arithmetic Cognition Through Dynamic  Connectionist Models,"Sungjae Cho, 
+Jaeseo Lim, 
+Chris Hickey, 
+Jung Ae Park, 
+Byoung-Tak Zhang","Neural and Evolutionary Computing (cs.NE); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)
+"
+Learning Representations for Predicting Future Activities,"Mohammadreza Zolfaghari, 
+Özgün Çiçek, 
+Syed Mohsin Ali, 
+Farzaneh Mahdisoltani, 
+Can Zhang, 
+Thomas Brox","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Human-Computer Interaction (cs.HC); Information Theory (cs.IT); Robotics (cs.RO)
+"
+1D Convolutional Neural Networks and Applications: A Survey,"Serkan Kiranyaz, 
+Onur Avci, 
+Osama Abdeljaber, 
+Turker Ince, 
+Moncef Gabbouj, 
+Daniel J. Inman","Signal Processing (eess.SP); Artificial Intelligence (cs.AI)
+"
+Pretrain Soft Q-Learning with Imperfect Demonstrations,"Xiaoqin Zhang, 
+Yunfei Li, 
+Huimin Ma, 
+Xiong Luo","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+"
+Toward Packet Routing with Fully-distributed Multi-agent Deep  Reinforcement Learning,"Xinyu You, 
+Xuanjie Li, 
+Yuedong Xu, 
+Hui Feng, 
+Jin Zhao","Networking and Internet Architecture (cs.NI); Artificial Intelligence (cs.AI)
+"
+Limits of Deepfake Detection: A Robust Estimation Viewpoint,"Sakshi Agarwal, 
+Lav R. Varshney","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Information Theory (cs.IT); Machine Learning (stat.ML)
+"
+"Testing Scenario Library Generation for Connected and Automated  Vehicles, Part II: Case Studies","Shuo Feng, 
+Yiheng Feng, 
+Haowei Sun, 
+Shao Bao, 
+Aditi Misra, 
+Yi Zhang, 
+Henry X. Liu","Robotics (cs.RO); Artificial Intelligence (cs.AI)
+"
+Variable Neighborhood Search for the Bin Packing Problem with Compatible  Categories,"Luiz F. O. Moura Santos, 
+Hugo T. Y. Yoshizaki, 
+Claudio B. Cunha","Data Structures and Algorithms (cs.DS); Artificial Intelligence (cs.AI); Optimization and Control (math.OC)
+"
+Learning to Evolve,"Jan Schuchardt, 
+Vladimir Golkov, 
+Daniel Cremers","Neural and Evolutionary Computing (cs.NE); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG); Machine Learning (stat.ML)
+"
+AutoAssist: A Framework to Accelerate Training of Deep Neural Networks,"Jiong Zhang, 
+Hsiang-fu Yu, 
+Inderjit S. Dhillon","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+"
+SMT-based Constraint Answer Set Solver EZSMT+,"Da Shen, 
+Yuliya Lierler","Logic in Computer Science (cs.LO); Artificial Intelligence (cs.AI)
+"
+Advancements in Image Classification using Convolutional Neural Network,"Farhana Sultana, 
+A. Sufian, 
+Paramartha Dutta","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)
+"
+MASS: Masked Sequence to Sequence Pre-training for Language Generation,"Kaitao Song, 
+Xu Tan, 
+Tao Qin, 
+Jianfeng Lu, 
+Tie-Yan Liu","Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)
+"
+A new direction to promote the implementation of artificial intelligence  in natural clinical settings,"Yunyou Huang, 
+Zhifei Zhang, 
+Nana Wang, 
+Nengquan Li, 
+Mengjia Du, 
+Tianshu Hao, 
+Jianfeng Zhan",Artificial Intelligence (cs.AI)
+Cyber-All-Intel: An AI for Security related Threat Intelligence,"Sudip Mittal, 
+Anupam Joshi, 
+Tim Finin","Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Cryptography and Security (cs.CR)
+"
+ArCo: the Italian Cultural Heritage Knowledge Graph,"Valentina Anita Carriero, 
+Aldo Gangemi, 
+Maria Letizia Mancinelli, 
+Ludovica Marinucci, 
+Andrea Giovanni Nuzzolese, 
+Valentina Presutti, 
+Chiara Veninata","Artificial Intelligence (cs.AI); Computers and Society (cs.CY)
+"
+Endoscopy artifact detection (EAD 2019) challenge dataset,"Sharib Ali, 
+Felix Zhou, 
+Christian Daul, 
+Barbara Braden, 
+Adam Bailey, 
+Stefano Realdon, 
+James East, 
+Georges Wagnières, 
+Victor Loschenov, 
+Enrico Grisan, 
+Walter Blondel, 
+Jens Rittscher","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Image and Video Processing (eess.IV)
+"
+A Hardware-Oriented and Memory-Efficient Method for CTC Decoding,"Siyuan Lu, 
+Jinming Lu, 
+Jun Lin, 
+Zhongfeng Wang","Signal Processing (eess.SP); Machine Learning (cs.LG)
+"
+Meta-learning of Sequential Strategies,"Pedro A. Ortega, 
+Jane X. Wang, 
+Mark Rowland, 
+Tim Genewein, 
+Zeb Kurth-Nelson, 
+Razvan Pascanu, 
+Nicolas Heess, 
+Joel Veness, 
+Alex Pritzel, 
+Pablo Sprechmann, 
+Siddhant M. Jayakumar, 
+Tom McGrath, 
+Kevin Miller, 
+Mohammad Azar, 
+Ian Osband, 
+Neil Rabinowitz, 
+András György, 
+Silvia Chiappa, 
+Simon Osindero, 
+Yee Whye Teh, 
+Hado van Hasselt, 
+Nando de Freitas, 
+Matthew Botvinick, 
+Shane Legg","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+"
+"Emotion Recognition in Conversation: Research Challenges, Datasets, and  Recent Advances","Soujanya Poria, 
+Navonil Majumder, 
+Rada Mihalcea, 
+Eduard Hovy","Computation and Language (cs.CL); Artificial Intelligence (cs.AI)
+"
+Robust Federated Training via Collaborative Machine Teaching using  Trusted Instances,"Yufei Han, 
+Xiangliang Zhang","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+"
+Neural 3D Morphable Models: Spiral Convolutional Networks for 3D Shape  Representation Learning and Generation,"Giorgos Bouritsas, 
+Sergiy Bokhnyak, 
+Stylianos Ploumpis, 
+Michael Bronstein, 
+Stefanos Zafeiriou","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Graphics (cs.GR); Machine Learning (cs.LG)
+"
+Understanding attention in graph neural networks,"Boris Knyazev, 
+Graham W. Taylor, 
+Mohamed R. Amer","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+"
+Feature Selection and Feature Extraction in Pattern Analysis: A  Literature Review,"Benyamin Ghojogh, 
+Maria N. Samad, 
+Sayema Asif Mashhadi, 
+Tania Kapoor, 
+Wahab Ali, 
+Fakhri Karray, 
+Mark Crowley","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)
+"
+FANTrack: 3D Multi-Object Tracking with Feature Association Network,"Erkan Baser, 
+Venkateshwaran Balasubramanian, 
+Prarthana Bhattacharyya, 
+Krzysztof Czarnecki","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Robotics (cs.RO)
+"
+Decision Making with Machine Learning and ROC Curves,"Kai Feng, 
+Han Hong, 
+Ke Tang, 
+Jingyuan Wang","Methodology (stat.ME); Artificial Intelligence (cs.AI); General Economics (econ.GN); Machine Learning (stat.ML)
+"
+Interpretation of Feature Space using Multi-Channel Attentional  Sub-Networks,"Masanari Kimura, 
+Masayuki Tanaka","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)
+"
+"Learned human-agent decision-making, communication and joint action in a  virtual reality environment","Patrick M. Pilarski, 
+Andrew Butcher, 
+Michael Johanson, 
+Matthew M. Botvinick, 
+Andrew Bolt, 
+Adam S. R. Parker","Artificial Intelligence (cs.AI); Human-Computer Interaction (cs.HC); Machine Learning (cs.LG)
+"
+Autonomous Open-Ended Learning of Interdependent Tasks,"Vieri Giuliano Santucci, 
+Emilio Cartoni, 
+Bruno Castro da Silva, 
+Gianluca Baldassarre","Artificial Intelligence (cs.AI); Robotics (cs.RO)
+"
+Knowing The What But Not The Where in Bayesian Optimization,"Vu Nguyen, 
+Michael A. Osborne","Machine Learning (stat.ML); Machine Learning (cs.LG)
+"
+Descriptive evaluation of students using fuzzy approximate reasoning,"Mohsen Annabestani, 
+Alireza Rowhanimanesh, 
+Aylar Mizani, 
+Akram Rezaei",Artificial Intelligence (cs.AI)
+Design Space Exploration as Quantified Satisfaction,"Alexander Feldman, 
+Johan de Kleer, 
+Ion Matei","Artificial Intelligence (cs.AI); Data Structures and Algorithms (cs.DS); Emerging Technologies (cs.ET); Logic in Computer Science (cs.LO)
+"
+Object Exchangeability in Reinforcement Learning: Extended Abstract,"John Mern, 
+Dorsa Sadigh, 
+Mykel Kochenderfer","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+"
+Combining Planning and Deep Reinforcement Learning in Tactical Decision  Making for Autonomous Driving,"Carl-Johan Hoel, 
+Katherine Driggs-Campbell, 
+Krister Wolff, 
+Leo Laine, 
+Mykel J. Kochenderfer","Robotics (cs.RO); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)
+"
+Continual and Multi-task Reinforcement Learning With Shared Episodic  Memory,"Artyom Y. Sorokin, 
+Mikhail S. Burtsev","Neural and Evolutionary Computing (cs.NE); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)
+"
+Optimal Control of Complex Systems through Variational Inference with a  Discrete Event Decision Process,"Wen Dong, 
+Bo Liu, 
+Fan Yang","Systems and Control (cs.SY); Artificial Intelligence (cs.AI)
+"
+RelExt: Relation Extraction using Deep Learning approaches for  Cybersecurity Knowledge Graph Improvement,"Aditya Pingle, 
+Aritran Piplai, 
+Sudip Mittal, 
+Anupam Joshi","Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Cryptography and Security (cs.CR)
+"
+Representation of White- and Black-Box Adversarial Examples in Deep  Neural Networks and Humans: A Functional Magnetic Resonance Imaging Study,"Chihye Han, 
+Wonjun Yoon, 
+Gihyun Kwon, 
+Seungkyu Nam, 
+Daeshik Kim","Neurons and Cognition (q-bio.NC); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)
+"
+Dimension-Wise Importance Sampling Weight Clipping for Sample-Efficient  Reinforcement Learning,"Seungyul Han, 
+Youngchul Sung","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+"
+A Modular Deep Learning Approach for Extreme Multi-label Text  Classification,"Wei-Cheng Chang, 
+Hsiang-Fu Yu, 
+Kai Zhong, 
+Yiming Yang, 
+Inderjit Dhillon","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Information Retrieval (cs.IR); Machine Learning (stat.ML)
+"
+Analysis of Gene Interaction Graphs for Biasing Machine Learning Models,"Paul Bertin, 
+Mohammad Hashir, 
+Martin Weiss, 
+Geneviève Boucher, 
+Vincent Frappier, 
+Joseph Paul Cohen","Genomics (q-bio.GN); Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Quantitative Methods (q-bio.QM)
+"
+Source Generator Attribution via Inversion,"Michael Albright, 
+Scott McCloskey","Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG); Image and Video Processing (eess.IV)
+"
+MixMatch: A Holistic Approach to Semi-Supervised Learning,"David Berthelot, 
+Nicholas Carlini, 
+Ian Goodfellow, 
+Nicolas Papernot, 
+Avital Oliver, 
+Colin Raffel","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)
+"
+Image Matters: Detecting Offensive and Non-Compliant Content / Logo in  Product Images,"Shreyansh Gandhi, 
+Samrat Kokkula, 
+Abon Chaudhuri, 
+Alessandro Magnani, 
+Theban Stanley, 
+Behzad Ahmadi, 
+Venkatesh Kandaswamy, 
+Omer Ovenc, 
+Shie Mannor","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)
+"
+Towards Big data processing in IoT: network management for online edge  data processing,"Shuo Wan, 
+Jiaxun Lu, 
+Pingyi Fan, 
+Khaled B. Letaief","Networking and Internet Architecture (cs.NI); Artificial Intelligence (cs.AI); Distributed, Parallel, and Cluster Computing (cs.DC); Information Theory (cs.IT); Image and Video Processing (eess.IV)
+"
+Label-Noise Robust Multi-Domain Image-to-Image Translation,"Takuhiro Kaneko, 
+Tatsuya Harada","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Machine Learning (stat.ML)
+"
+Interpretable Automated Machine Learning in Maana(TM) Knowledge Platform,"Alexander Elkholy, 
+Fangkai Yang, 
+Steven Gustafson","Machine Learning (cs.LG); Artificial Intelligence (cs.AI)
+"
+"Impact of Artificial Intelligence on Businesses: from Research,  Innovation, Market Deployment to Future Shifts in Business Models","Neha Soni, 
+Enakshi Khular Sharma, 
+Narotam Singh, 
+Amita Kapoor","General Economics (econ.GN); Artificial Intelligence (cs.AI); Computers and Society (cs.CY)
+"
+Characterizing the invariances of learning algorithms using category  theory,Kenneth D. Harris,"Machine Learning (cs.LG); Category Theory (math.CT); Machine Learning (stat.ML)
+"
+Conditioning LSTM Decoder and Bi-directional Attention Based Question  Answering System,Heguang Liu,"Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Machine Learning (stat.ML)
+"
+Deep Ordinal Reinforcement Learning,"Alexander Zap, 
+Tobias Joppen, 
+Johannes Fürnkranz","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+"
+Using Context Information to Enhance Simple Question Answering,"Lin Li, 
+Mengjing Zhang, 
+Zhaohui Chao, 
+Jianwen Xiang","Computation and Language (cs.CL); Artificial Intelligence (cs.AI)
+"
+Review-Driven Answer Generation for Product-Related Questions in  E-Commerce,"Shiqian Chen, 
+Chenliang Li, 
+Feng Ji, 
+Wei Zhou, 
+Haiqing Chen","Computation and Language (cs.CL); Artificial Intelligence (cs.AI)
+"
+Semi-Unsupervised Lifelong Learning for Sentiment Classification,"Xianbin Hong, 
+Gautam Pal, 
+Sheng-Uei Guan, 
+Prudence Wong, 
+Dawei Liu, 
+Ka Lok Man, 
+Xin Huang","Computation and Language (cs.CL); Artificial Intelligence (cs.AI)
+"
+Beyond Personalization: Research Directions in Multistakeholder  Recommendation,"Himan Abdollahpouri, 
+Gediminas Adomavicius, 
+Robin Burke, 
+Ido Guy, 
+Dietmar Jannach, 
+Toshihiro Kamishima, 
+Jan Krasnodebski, 
+Luiz Pizzato","Information Retrieval (cs.IR); Artificial Intelligence (cs.AI)
+"
+AI-Powered Text Generation for Harmonious Human-Machine Interaction:  Current State and Future Directions,"Qiuyun Zhang, 
+Bin Guo, 
+Hao Wang, 
+Yunji Liang, 
+Shaoyang Hao, 
+Zhiwen Yu","Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Human-Computer Interaction (cs.HC)
+"
+CraftAssist Instruction Parsing: Semantic Parsing for a Minecraft  Assistant,"Yacine Jernite, 
+Kavya Srinet, 
+Jonathan Gray, 
+Arthur Szlam","Computation and Language (cs.CL); Artificial Intelligence (cs.AI)
+"
+Real-time Inference in Multi-sentence Tasks with Deep Pretrained  Transformers,"Samuel Humeau, 
+Kurt Shuster, 
+Marie-Anne Lachaux, 
+Jason Weston","Computation and Language (cs.CL); Artificial Intelligence (cs.AI)
+"
+"Question Relatedness on Stack Overflow: The Task, Dataset, and  Corpus-inspired Models","Amirreza Shirani, 
+Bowen Xu, 
+David Lo, 
+Thamar Solorio, 
+Amin Alipour","Computation and Language (cs.CL); Artificial Intelligence (cs.AI)
+"
+Relation Discovery with Out-of-Relation Knowledge Base as Supervision,"Yan Liang, 
+Xin Liu, 
+Jianwen Zhang, 
+Yangqiu Song","Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Machine Learning (stat.ML)
+"
+Extracting human emotions at different places based on facial  expressions and spatial clustering analysis,"Yuhao Kang, 
+Qingyuan Jia, 
+Song Gao, 
+Xiaohuan Zeng, 
+Yueyao Wang, 
+Stephan Angsuesser, 
+Yu Liu, 
+Xinyue Ye, 
+Teng Fei","Computer Vision and Pattern Recognition (cs.CV); Human-Computer Interaction (cs.HC)
+"
+Fine-grained Attention-based Video Face Recognition,"Zhaoxiang Liu, 
+Huan Hu, 
+Jinqiang Bai, 
+Shaohua Li, 
+Shiguo Lian","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)
+"
+Anonymized BERT: An Augmentation Approach to the Gendered Pronoun  Resolution Challenge,Bo Liu,"Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)
+"
+Towards Instance-level Image-to-Image Translation,"Zhiqiang Shen, 
+Mingyang Huang, 
+Jianping Shi, 
+Xiangyang Xue, 
+Thomas Huang","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)
+"
+Few-Shot Unsupervised Image-to-Image Translation,"Ming-Yu Liu, 
+Xun Huang, 
+Arun Mallya, 
+Tero Karras, 
+Timo Aila, 
+Jaakko Lehtinen, 
+Jan Kautz","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Graphics (cs.GR); Multimedia (cs.MM); Machine Learning (stat.ML)
+"
+Curious Meta-Controller: Adaptive Alternation between Model-Based and  Model-Free Control in Deep Reinforcement Learning,"Muhammad Burhan Hafez, 
+Cornelius Weber, 
+Matthias Kerzel, 
+Stefan Wermter","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Robotics (cs.RO); Machine Learning (stat.ML)
+"
+The Game of Tetris in Machine Learning,"Simón Algorta, 
+Özgür Şimşek","Machine Learning (cs.LG); Artificial Intelligence (cs.AI)
+"
+A Typedriven Vector Semantics for Ellipsis with Anaphora using Lambek  Calculus with Limited Contraction,"Gijs Wijnholds, 
+Mehrnoosh Sadrzadeh","Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Logic in Computer Science (cs.LO); Logic (math.LO)
+"
+Conditional Generative Neural System for Probabilistic Trajectory  Prediction,"Jiachen Li, 
+Hengbo Ma, 
+Masayoshi Tomizuka","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Robotics (cs.RO); Machine Learning (stat.ML)
+"
+Learning Graph Neural Networks with Noisy Labels,"Hoang NT, 
+Choong Jun Jin, 
+Tsuyoshi Murata","Machine Learning (cs.LG); Machine Learning (stat.ML)
+"
+A Pattern Recognition Method for Partial Discharge Detection on  Insulated Overhead Conductors,"Ming Dong, 
+Zexi Sun, 
+Carl Wang","Signal Processing (eess.SP); Artificial Intelligence (cs.AI)
+"
+Learning to Control in Metric Space with Optimal Regret,"Lin F. Yang, 
+Chengzhuo Ni, 
+Mengdi Wang","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+"
+Learning to Denoise Distantly-Labeled Data for Entity Typing,"Yasumasa Onoe, 
+Greg Durrett","Computation and Language (cs.CL); Artificial Intelligence (cs.AI)
+"
+A Similarity Measure for Material Appearance,"Manuel Lagunas, 
+Sandra Malpica, 
+Ana Serrano, 
+Elena Garces, 
+Diego Gutierrez, 
+Belen Masia","Graphics (cs.GR); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)
+"
+Detecting Pathogenic Social Media Accounts without Content or Network  Structure,"Elham Shaabani, 
+Ruocheng Guo, 
+Paulo Shakarian","Social and Information Networks (cs.SI); Information Retrieval (cs.IR); Machine Learning (cs.LG)
+"
+An End-to-End Framework to Identify Pathogenic Social Media Accounts on  Twitter,"Elham Shaabani, 
+Ashkan Sadeghi-Mobarakeh, 
+Hamidreza Alvari, 
+Paulo Shakarian","Social and Information Networks (cs.SI); Information Retrieval (cs.IR); Machine Learning (cs.LG)
+"
+Hierarchical Policy Learning is Sensitive to Goal Space Design,"Zach Dwiel, 
+Madhavun Candadai, 
+Mariano J. Phielipp, 
+Arjun K. Bansal","Machine Learning (cs.LG); Artificial Intelligence (cs.AI)
+"
+SoilingNet: Soiling Detection on Automotive Surround-View Cameras,"Michal Uricar, 
+Pavel Krizek, 
+Ganesh Sistu, 
+Senthil Yogamani","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Robotics (cs.RO); Machine Learning (stat.ML)
+"
+"WoodScape: A multi-task, multi-camera fisheye dataset for autonomous  driving","Senthil Yogamani, 
+Ciaran Hughes, 
+Jonathan Horgan, 
+Ganesh Sistu, 
+Padraig Varley, 
+Derek O'Dea, 
+Michal Uricar, 
+Stefan Milz, 
+Martin Simon, 
+Karl Amende, 
+Christian Witt, 
+Hazem Rashed, 
+Sumanth Chennupati, 
+Sanjaya Nayak, 
+Saquib Mansoor, 
+Xavier Perroton, 
+Patrick Perez","Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Robotics (cs.RO); Machine Learning (stat.ML)
+"
+A Survey on Neural Architecture Search,"Martin Wistuba, 
+Ambrish Rawat, 
+Tejaswini Pedapati","Machine Learning (cs.LG); Computer Vision and Pattern Recognition (cs.CV); Neural and Evolutionary Computing (cs.NE); Machine Learning (stat.ML)
+"
+Personalized Query Auto-Completion Through a Lightweight Representation  of the User Context,"Manojkumar Rangasamy Kannadasan, 
+Grigor Aslanyan","Information Retrieval (cs.IR); Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Machine Learning (cs.LG)
+"
+A multi-agent system approach in evaluating human spatio-temporal  vulnerability to seismic risk using social attachment,"Julius Bañgate, 
+Julie Dugdale (LIG Laboratoire d'Informatique de Grenoble), 
+Elise Beck (IV), 
+Carole Adam (LIG, LIG Laboratoire d'Informatique de Grenoble)","Multiagent Systems (cs.MA); Artificial Intelligence (cs.AI)
+"
+Skynet: A Top Deep RL Agent in the Inaugural Pommerman Team Competition,"Chao Gao, 
+Pablo Hernandez-Leal, 
+Bilal Kartal, 
+Matthew E. Taylor","Multiagent Systems (cs.MA); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)
+"
+Data-efficient Learning of Morphology and Controller for a Microrobot,"Thomas Liao, 
+Grant Wang, 
+Brian Yang, 
+Rene Lee, 
+Kristofer Pister, 
+Sergey Levine, 
+Roberto Calandra","Robotics (cs.RO); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)
+"
+Meta-learners' learning dynamics are unlike learners',Neil C. Rabinowitz,"Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+"
+Autonomous Air Traffic Controller: A Deep Multi-Agent Reinforcement  Learning Approach,"Marc Brittain, 
+Peng Wei","Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Multiagent Systems (cs.MA); Machine Learning (stat.ML)
+"
